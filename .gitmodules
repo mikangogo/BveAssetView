@@ -1,0 +1,9 @@
+[submodule "Assets/ThirdParty/UnityWindowsFileDrag-Drop"]
+	path = Assets/ThirdParty/UnityWindowsFileDrag-Drop
+	url = https://github.com/Bunny83/UnityWindowsFileDrag-Drop.git
+[submodule "Assets/ThirdParty/unity-mesh-builder"]
+	path = Assets/ThirdParty/unity-mesh-builder
+	url = https://github.com/mattatz/unity-mesh-builder.git
+[submodule "Assets/ThirdParty/StbImageSharp"]
+	path = Assets/ThirdParty/StbImageSharp
+	url = https://github.com/StbSharp/StbImageSharp.git
